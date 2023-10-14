@@ -1,6 +1,6 @@
 ### Hi there, welcome on my profile✌️
 
- 👯 I’m currently working at the French Health Insurance as a Teach Lead
+ 👯 I’m currently working at Carrefour as a Chapter Lead Front
 
 <!--
 **heristop/heristop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
