@@ -1,6 +1,12 @@
 ### Hi there, welcome on my profile✌️
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=336767&vCenter=true&random=false&width=435&lines=Alexandre+Mog%C3%A8re+(heristop);Full+Stack%3A;JS%3A+Vue%2C+React%2C+Node...;PHP%3A+Symfony%2C+Laravel...)](https://git.io/typing-svg)
+
  👯 I’m currently working at Carrefour as a Chapter Lead Front
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heristop" />
 
 <!--
 **heristop/heristop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
