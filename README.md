@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="96d134f3-4fcc-41ea-a458-08b4a8debd78" async></script>
